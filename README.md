@@ -30,7 +30,7 @@ Here's a walkthrough of implemented features:
 
 
 Video created with Loom
-<video src = "https://www.loom.com/share/fca9167de039412f8781198c7fcb1642"></video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/fca9167de039412f8781198c7fcb1642" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
