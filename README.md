@@ -28,8 +28,10 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+Video created with Loom
+<video src = "https://www.loom.com/share/fca9167de039412f8781198c7fcb1642"></video>
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-One challenge encountered while building the app was working with array methods like filter(), reduce(), and sort() to dynamically display and update data. Another challenge was manipulating the DOM efficiently, especially when clearing and re-rendering game cards when different filter buttons were clicked.
+One challenge encountered while building the app was working with array methods like filter(), reduce(), and sort() to dynamically display and update data. Another challenge was manipulating the DOM efficiently, especially when clearing and re-rendering game cards when different filter buttons were clicked.But overall it wasn't so bad
 
 ## License
 
