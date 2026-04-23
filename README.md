@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Add animations or hover effects to improve UI
+* [ ] Improve styling and responsiveness for mobile devices
+* [ ] Add search or filter by game name
+* [ ] Display percentage funded for each game
 
 ## Video Walkthrough
 
@@ -34,11 +37,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge encountered while building the app was working with array methods like filter(), reduce(), and sort() to dynamically display and update data. Another challenge was manipulating the DOM efficiently, especially when clearing and re-rendering game cards when different filter buttons were clicked.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Charlotte Kathlyn Naa odarley Wellington
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
